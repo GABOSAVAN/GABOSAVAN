@@ -1,8 +1,6 @@
 # 💫 About Me:
 Soy economista e ingeniero industrial con más de 7 años de experiencia en el mundo de la programación. A lo largo de mi carrera, he colaborado con empresas de productos, consultoras y como freelancer, desempeñando roles tanto de backend como de frontend, o ejerciendo ambos roles en proyectos complejos. Mi enfoque está en ofrecer soluciones tecnológicas eficientes y escalables, siempre buscando el equilibrio entre el desarrollo de aplicaciones robustas y una excelente experiencia de usuario.<br><br>Domino diversas tecnologías en el frontend, como Angular, React, y Flutter; en el backend, me especializo en Node.js, Django, y Spring Boot. También tengo experiencia en el desarrollo mobile utilizando React Native y Flutter. Además, manejo otros frameworks como NestJS y Next.js.<br><br>En el área de ingeniería de datos, trabajo con herramientas como Apache Airflow, Pandas, Kafka, y Spark, mientras que en tecnologías cloud tengo experiencia tanto en AWS como en Google Cloud Platform (GCP). Mis lenguajes de programación principales incluyen Python, JavaScript, Java, y Dart.<br><br>Mi objetivo es seguir construyendo soluciones innovadoras, colaborar en proyectos desafiantes y compartir mis conocimientos con la comunidad.<br><br>I am an economist and industrial engineer with over 7 years of experience in the world of programming. Throughout my career, I have collaborated with product companies, consultancies, and as a freelancer, taking on roles in backend, frontend, or both, working on complex projects. My focus is on delivering efficient and scalable technological solutions, always aiming to balance robust application development with a great user experience.<br><br>I am proficient in various frontend technologies such as Angular, React, and Flutter; in the backend, I specialize in Node.js, Django, and Spring Boot. I also have experience in mobile development using React Native and Flutter. Additionally, I work with frameworks like NestJS and Next.js.<br><br>In the field of data engineering, I work with tools like Apache Airflow, Pandas, Kafka, and Spark, and have experience in cloud technologies with AWS and Google Cloud Platform (GCP). My main programming languages include Python, JavaScript, Java, and Dart.<br><br>My goal is to continue building innovative solutions, working on challenging projects, and sharing my knowledge with the community.
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
@@ -24,14 +22,11 @@ Soy economista e ingeniero industrial con más de 7 años de experiencia en el m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabosavan&icon=0&color=0)](https://visitcount.itsvg.in)
