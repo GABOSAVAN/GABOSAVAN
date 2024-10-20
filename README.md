@@ -28,12 +28,6 @@ The key for me is flexibility and constant learning. I believe in collaboration,
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 
 ---
