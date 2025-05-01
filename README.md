@@ -1,11 +1,11 @@
 # 💫 About Me:
-Apasionado por la tecnología creo firmemente en que el verdadero valor  reside en resolver problemas reales. Con formación en economía e ingeniería industrial, y más de 7 años de experiencia trabajando en diversos sectores, he aprendido que la tecnología es una extensión de la creatividad humana, diseñada para generar impacto.
+Apasionado por la tecnología creo firmemente en que el verdadero valor  reside en resolver problemas reales. Con formación en economía e ingeniería en computacion, y más de 9 años de experiencia trabajando en diversos sectores, he aprendido que la tecnología es una extensión de la creatividad humana, diseñada para generar impacto.
 
 He tenido el privilegio de colaborar en proyectos que abarcan desde empresas de productos hasta consultorías, siempre buscando comprender a fondo los desafíos de cada implementación para ofrecer soluciones que realmente marquen la diferencia, adaptándome a las necesidades específicas del proyecto.
 
 La clave para mí es la flexibilidad y el aprendizaje constante. Creo en la colaboración, en aportar no solo conocimientos técnicos, sino también una visión integral que pueda unir el desarrollo con la estrategia y los objetivos del negocio. Mi mayor satisfacción es ver cómo las soluciones que creamos impulsan resultados tangibles y permiten que las ideas se conviertan en realidad.
 
-<br><br>Passionate about technology, I firmly believe that true value lies in solving real problems. With a background in economics and industrial engineering, and more than 7 years of experience working in various sectors, I have learned that technology is an extension of human creativity, designed to generate impact.
+<br><br>Passionate about technology, I firmly believe that true value lies in solving real problems. With a background in economics and computing engineering, and more than 9 years of experience working in various sectors, I have learned that technology is an extension of human creativity, designed to generate impact.
 
 I have had the privilege of collaborating on projects ranging from product companies to consultancies, always seeking to thoroughly understand the challenges of each implementation to offer solutions that really make a difference, adapting to the specific needs of the project.
 
